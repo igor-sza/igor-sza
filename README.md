@@ -1,21 +1,28 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f516b2&height=110&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=f5f5f5&center=true&width=600&lines=Olá+Meu+nome+é+Igor+Souza!) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f516b2&size=35&center=true&vCenter=true&width=1000&lines=Fala+ai!+Meu+nome+é+Igor;Mas+pode+me+chamar+de+Shark!;Estou+no+5°+semestre+de+Ciência+da+Computação)](https://git.io/typing-svg)
 
 
-# 🙋🏻Prazer!
+# 🦈Prazer em conhecer você!
 - Tenho 20 anos e sou estudante de Ciência da Computação, sou apaixonado por tecnologia e desenvolvimento pessoal.
-- Atualmente, estou realizando o bootcamp da DIO com parceria ao Bradesco, minhas áreas favoritas dentro deste mundo são Back-End e FullStack.
-- Busco me desenvolver um pouco a cada dia!
+- Atualmente estou buscando melhorar minhas habilidades com Java usando Spring Boot e minhas habilidades em Full Stack com JavaScript, HTML e CSS.
+- Amo música, inclusive gosto de vários estilos.
+- Busco melhorar um pouco a cada dia!
 
-
-## 💻 Linguagens
+## 💻 Linguagens e Tecnologias
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igor-sza&layout=compact&bg_color=000&border_color=f516b2&title_color=f516b2&text_color=FFF)
 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+</p>
 
 ## ✨ Status
 
