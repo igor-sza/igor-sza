@@ -22,9 +22,6 @@ Sou o Igor, tenho 20 anos e estou mergulhando de cabeça no universo da Ciência
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </p>
-
-## 🚀 Projetos em Destaque
-📌 [ToDo-List-Java/Spring Boot](https://github.com/igor-sza/todo-list-springboot) - API Spring Boot que gerencia tarefas.
   
 ## Entre em contato comigo!
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-souza-13b33a270/) [![Gmail](https://img.shields.io/badge/Email:igordesouzashk@gmail.com-000?style=for-the-badge&logo=Gmail&logoColor=red)](igordesouzashk@gmail.com)
