@@ -10,8 +10,6 @@ Sou o Igor, tenho 20 anos e estou mergulhando de cabeça no universo da Ciência
 
 ## 💻 Linguagens e Tecnologias
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igor-sza&layout=compact&bg_color=000&border_color=fc035e&title_color=fc035e&text_color=FFF)
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
